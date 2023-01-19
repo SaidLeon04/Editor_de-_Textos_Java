@@ -1,0 +1,19 @@
+Observa que el nombre de la clase inicia con una letra Mayúscula y si cuenta con mas de una
+
+palabra todas las palabras inician con una mayúscula por ejemplo:
+
+Figura_Geometrica, también es correcto FiguraGeometrica,
+
+Con los atributos y los métodos los nombres empiezan con minúsculas, pero si esta
+
+compuesta de mas de una palabra entonces las siguientes palabras inician con mayúscula,
+
+por ejemplo:
+
+numero_Lados, también es correcto numeroLados.
+
+En los nombres no debe haber espacios en blanco ni usar caracteres especiales por ejemplo:
+
+$ % & / ( ) ! - , es por eso que no se usan acentos, los números y el guion bajo _ sí están
+
+permitidos.
